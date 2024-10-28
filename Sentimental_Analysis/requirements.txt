@@ -1,0 +1,13 @@
+Pandas 
+Numpy 
+Nltk 
+Scikit-sklearn 
+Vadersentiment 
+Textblob 
+Transformers 
+Scipy 
+Matplotlib 
+Tensorﬂow 
+Xgboost 
+Wordcloud 
+Matplotlib 
