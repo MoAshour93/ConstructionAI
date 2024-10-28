@@ -1,7 +1,3 @@
-Here’s a `README.md` file based on your project’s functionality and the provided code:
-
----
-
 # Web Scraper App with Streamlit - Crawl4AI Enhanced
 
 This repository provides a web scraping tool built using Streamlit, inspired by the Crawl4AI library. The app enables users to scrape content from web pages, convert it into Markdown format, and download the cleaned text in a user-friendly interface. This README file outlines the app’s setup, core functionality, and deployment instructions.
@@ -123,7 +119,3 @@ This project was inspired by DataInsightEdge and built using the Crawl4AI librar
 - [APC Mastery Path](https://www.youtube.com/@APCMasteryPath) YouTube channel for supporting project development.
 
 For more details, visit [APC Mastery Path](https://www.apcmasterypath.co.uk) or contact [Mohamed Ashour](mailto:mohamed_ashour@apcmasterypath.co.uk).
-
----
-
-This `README.md` should provide a thorough introduction, setup instructions, and usage guidance for anyone looking to run and deploy your web scraper application.
