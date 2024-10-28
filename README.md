@@ -1,4 +1,4 @@
-# 👷‍♂️ ConstructionAI – AI Innovator in Construction 🚀
+# 👷‍♂️ ConstructionAI – AI Innovation in Construction 🚀
 
 Welcome! I’m Mohamed Ashour, a Chartered Quantity Surveyor deeply passionate about applying **Data Analytics** and **Artificial Intelligence** to the construction industry. Here, you’ll find a collection of cutting-edge AI initiatives, each aiming to redefine how we approach construction and project management. My work explores the powerful synergy between **construction expertise** and **machine learning**—turning concepts into scalable, production-ready solutions.
 
