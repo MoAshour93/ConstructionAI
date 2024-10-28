@@ -1,4 +1,4 @@
-# Web Scraper App with Streamlit - Crawl4AI Enhanced
+# Web Scraper App with Streamlit - Crawl4AI
 
 This repository provides a web scraping tool built using Streamlit, inspired by the Crawl4AI library. The app enables users to scrape content from web pages, convert it into Markdown format, and download the cleaned text in a user-friendly interface. This README file outlines the app’s setup, core functionality, and deployment instructions.
 
