@@ -1,0 +1,7 @@
+os
+glob
+langchain
+langchain-commmunity
+chromadb
+sentence-transformers
+transformers
